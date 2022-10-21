@@ -1,0 +1,67 @@
+body{
+	background-image: url(./images/vk.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 75%;
+	
+}
+.con1 h1{
+	text-align: center;
+	text-decoration: underline;
+}
+.con1 h1:hover{
+	color: white;
+}
+.con1 img{
+	border-radius: 10px;
+
+}
+
+.con1 p{
+	padding-top: 50px;
+	padding-right: 50%;
+	margin-left: 10px;
+	font-style: georgia;
+	
+
+
+}
+
+.con1 p:hover{
+	color: white;
+}
+
+.con2 img{
+	border-radius: 10px;
+
+}
+
+.con2 p{
+	text-align: right;
+	padding-top: 50px;
+	padding-left: : 50%;
+	margin-right: 10px;
+	font-style: georgia;
+
+}
+
+.con2 p:hover{
+	color: white;
+}
+.con3 img{
+	border-radius: 10px;
+	margin-top: 60px;
+	margin-right: 30px;
+}
+
+.con3 p{
+	padding-top: 100px;
+	padding-right: 50%;
+	margin-left: 20px;
+	font-style: georgia;
+
+
+}
+.con3 p:hover{
+	color: white;
+}
